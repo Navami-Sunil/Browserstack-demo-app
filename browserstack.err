@@ -1,0 +1,2 @@
+[Wed, 24 Jul 2024 10:47:57 GMT] Error from server Error: listen EADDRINUSE: address already in use \\.\pipe\browserstack\webdriverio-appium-app-browserstack-repodaemonInst - \\.\pipe\browserstack\webdriverio-appium-app-browserstack-repodaemonInst
+[Wed, 24 Jul 2024 11:11:52 GMT] Error from server Error: listen EADDRINUSE: address already in use \\.\pipe\browserstack\webdriverio-appium-app-browserstack-repodaemonInst - \\.\pipe\browserstack\webdriverio-appium-app-browserstack-repodaemonInst
